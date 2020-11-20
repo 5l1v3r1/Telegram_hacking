@@ -64,14 +64,17 @@
 
 Usage of ScreenSpy for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
 
-### Thanks to the developer of this app:
-- 🦠 https://github.com/thelinuxchoice/screenspy
+### Buy this application:
+- 🦠 https://m4nifest0.com/
 ### Getting chat source
 #### How to use :
 - 👍Watch the tutorial video first
 
 ##### Sales of training and security software
 - 🛄 Privet tutorials and scripts 🈂️  https://M4nifest0.com 🈂️
+
+### Key
+- This text must be read [KEY]
 
 ##### See Training 
 
